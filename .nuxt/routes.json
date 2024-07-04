@@ -1,0 +1,30 @@
+[
+  {
+    "name": "contact",
+    "path": "/contact",
+    "component": "D:\\\\web\\\\Responsi_Web\\\\pages\\\\contact.vue",
+    "chunkName": "pages/contact",
+    "_name": "_46a9ca94"
+  },
+  {
+    "name": "myself",
+    "path": "/myself",
+    "component": "D:\\\\web\\\\Responsi_Web\\\\pages\\\\myself.vue",
+    "chunkName": "pages/myself",
+    "_name": "_2393d1d2"
+  },
+  {
+    "name": "projects",
+    "path": "/projects",
+    "component": "D:\\\\web\\\\Responsi_Web\\\\pages\\\\projects.vue",
+    "chunkName": "pages/projects",
+    "_name": "_af8dac58"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "D:\\\\web\\\\Responsi_Web\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_207a5de8"
+  }
+]
