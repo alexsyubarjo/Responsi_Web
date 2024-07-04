@@ -1,0 +1,154 @@
+{
+    "main": {
+        "name": "Nanda Pratama",
+        "shortname": "alexsyubarjo",
+        "occupation": "Frontend Developer/Ui & Ux",
+        "description": "Eat, sleep, code, repeat.",
+        "yearofexperience": "02",
+        "age": "21",
+        "designation": "Frontend Developer",
+        "image": "/images/photo.png",
+        "fullimage": "/images/myphoto1.jpg",
+        "bio": "Hello everyone! I am Nanda Pratama, a frontend mobile and website developer. I am a intermediate experienced and I hope with this I can always learning something new to be able to invent digital applications that can help many people in the future. Could work independently or in a team.",
+        "contactmessage": "Get in touch with me to to build any software for your business.!",
+        "email": "info.alaexsyubarjo@gmail.com",
+        "phone": "+62 87805718296",
+        "address": {
+            "street": "Sedayu,Jumantono",
+            "city": "Karanganyar",
+            "state": "Jawa Tengah",
+            "zip": "4202"
+        },
+        "quotes1": {
+            "sectiontitle": "My resume",
+            "title": "I Would Love to make your Ideas real",
+            "description": "I love graphic design and photography and have been working on my portfolio since 2016. You can download my resume in order to learn the details of my professional life as a designer and photographer. Contact me and we will discuss your projects!"
+        },
+        "quotes2": {
+            "sectiontitle": "",
+            "title": "I can give your business a new creative start right away! Hire me for your Awesome project",
+            "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. At, corrupti odit? At iure facere, porro repellat officia quas, dolores magnam assumenda soluta odit harum voluptate inventore ipsa maiores fugiat accusamus eos nulla. Iure voluptatibus explicabo officia."
+        },
+        "workabout": {
+            "completedproject": "20",
+            "inprogressproject": "5",
+            "awardrecived": "15",
+            "happyclinet": "100"
+        },
+        "resumedownload": "https://drive.google.com/file/d/1HuLXxOB6dL58AcupKZ9qhRr7739EXLML/view",
+        "social": [{
+                "name": "youtube",
+                "url": "https://www.youtube.com/@alexsyubarjo",
+                "className": "fa fa-youtube"
+            },
+            {
+                "name": "facebook",
+                "url": "https://www.facebook.com/nanda.prtama.92",
+                "className": "fa fa-facebook"
+            },
+            {
+                "name": "linkedin",
+                "url": "linkedin.com/in/nanda-pratama07/",
+                "className": "fa fa-linkedin"
+            },
+            {
+                "name": "instagram",
+                "url": "https://www.instagram.com/alexsyubarjo/",
+                "className": "fa fa-instagram"
+            },
+            {
+                "name": "github",
+                "url": "https://github.com/alexsyubarjo",
+                "className": "fa fa-github"
+            }
+        ]
+    },
+    "resume": {
+        "skillmessage": "My Programming Language Proficiency",
+        "education": [{
+            "school": "Universitas Amikom Yogyakarta",
+            "degree": "Bachelor's Degree, Computer Science",
+            "major": "Informatic",
+            "description": "Graduated with First Class Honours"
+        }],
+        "work": [{
+            "company": "NawaData",
+            "title": "Frontend Developer",
+            "years": "Jan 2022",
+            "description": "Developing some userfriendly and best website."
+        }]
+    },
+    "portfolio": {
+        "projects": [{
+                "no":"01",
+                "title": "RMS with AR",
+                "description": "Lorem ipsum dolor sit amet sed consectetur adipisicing elit. doloret quas saepe autem, dolor set.",
+                "url": "https://www.youtube.com/watch?v=0feY896TmH4"
+            },
+            {
+                "no":"02",
+                "title": "Prothom alo clone",
+                "description": "Lorem ipsum dolor sit amet sed consectetur adipisicing elit. doloret quas saepe autem, dolor set.",
+                "url": "https://www.youtube.com/watch?v=7pRx_hiXxwg&t=30s"
+            },
+            {
+                "no":"03",
+                "title": "Chaldal Clone",
+                "description": "Lorem ipsum dolor sit amet sed consectetur adipisicing elit. doloret quas saepe autem, dolor set.",
+                "url": "https://www.youtube.com/watch?v=PDvlbujWmIs&t=3s"
+            }
+        ]
+    },
+    "testimonials": {
+        "testimonials": [{
+                "text": "I am very impressed with the frontend design created by this team. The modern, responsive, and user-friendly interface makes the user experience very enjoyable.",
+                "clientname": "Sunaryo",
+                "clientaddress": "Sunter,Jakarta Utara"
+            },
+            {
+                "text": "The hard work of this frontend team is truly reflected in the final result. The intuitive and aesthetic design makes our application stand out among competitors They are also very flexible and open to feedback,",
+                "clientname": "Mariyo",
+                "clientaddress": "Malang,Jawa Timur"
+            }
+        ]
+    },
+    "services": {
+        "services": [
+            {
+                "no": "01",
+                "title": "UI/UX Design",
+                "description": "I am a UI/UX designer with more than 2 years of experience. My experience is designing prototypes and user experience.."
+            },
+            {
+                "no": "02",
+                "title": "Web Design",
+                "description": "I am a UI/UX designer with more than 2 years of experience. My experience is designing prototypes and user experience."
+            },
+            {
+                "no": "03",
+                "title": "Web Development",
+                "description": "A web developer is responsible for designing, building, and maintaining websites, ensuring optimal functionality, performance"
+            }
+        ]
+    },
+    "awwards": {
+        "awwards": [
+            {
+                "title": "Website of the day",
+                "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi reiciendis labore quisquam suscipit qui veritatis. voluptas quia officiis fugit soluta sunt"
+            },
+            {
+                "title": "Awards Site Of The Day",
+                "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi reiciendis labore quisquam suscipit qui veritatis. voluptas quia officiis fugit soluta sunt"
+            },
+            {
+                "title": "Honorable mention award",
+                "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi reiciendis labore quisquam suscipit qui veritatis. voluptas quia officiis fugit soluta sunt"
+            },
+            {
+                "title": "Designer of the Company",
+                "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi reiciendis labore quisquam suscipit qui veritatis. voluptas quia officiis fugit soluta sunt"
+            }
+        ]
+    }
+}
